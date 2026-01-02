@@ -106,11 +106,3 @@ The_Entity/
 ## Development
 
 The app automatically recalculates your burnout score as you input data. All state is managed client-side with React hooks, and calculations happen in real-time.
-
-## License
-
-MIT
-
-## Author
-
-Built with ❤️ for students everywhere
